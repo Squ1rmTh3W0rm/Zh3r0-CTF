@@ -6,4 +6,4 @@ My Zh3r0 CTF Writeups
 
 **Score:** __
 
-**Place:** __
+**Rank:** __
